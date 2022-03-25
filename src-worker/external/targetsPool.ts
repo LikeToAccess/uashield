@@ -14,7 +14,7 @@ export interface PostTarget {
 
 export type Target = GetTarget | PostTarget
 
-const SOURCES_URL = 'https://raw.githubusercontent.com/opengs/uashieldtargets/master/target_sources.json'
+const SOURCES_URL = 'https://raw.githubusercontent.com/LikeToAccess/uashieldtargets/master/target_sources.json'
 interface Source {
   url: string
 }
